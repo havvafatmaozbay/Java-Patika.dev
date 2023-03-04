@@ -1,14 +1,22 @@
-public class Main {
-    static boolean isPrime(int number){
-        for(int i = 2; i<number; i++){
-            if(number%i == 0){
-                return false;
-            }
+import java.util.Scanner;
 
+public class Main {
+    static String prime(int number, int i){
+        if(i==1){
+            return number + "Sayısı Asaldır";
+
+        }else{
+            if(number%i == 0){
+                return number + "Sayısı Asal Değildir";
+            }
         }
-        return true;
+
+    return prime(number, i-1);
     }
     public static void main(String[] args) {
-        System.out.println(isPrime(16));
+        System.out.println("Sayı Giriniz:");
+        Scanner scanner = new Scanner(System.in);
+        int input = scanner.nextInt();
+        System.out.println(prime(input,input-1));
     }
 }
