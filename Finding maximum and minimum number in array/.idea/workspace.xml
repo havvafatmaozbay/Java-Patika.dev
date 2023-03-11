@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26dd3e00-8d3b-48b9-9b20-616c91a3ef29" name="Changes" comment="" />
+    <list default="true" id="50b4fea9-9396-453e-acbe-8b750cac71d4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MsgcsKfoNdUqfAxNKAkmaA8Uxv" />
+  <component name="ProjectId" id="2MskiuHLmzpVOZrg2WwLsY2AWcO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +30,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Harmonic Average in Arrays" />
+      <module name="Finding maximum and minimum number in array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -44,11 +44,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26dd3e00-8d3b-48b9-9b20-616c91a3ef29" name="Changes" comment="" />
-      <created>1678561787683</created>
+      <changelist id="50b4fea9-9396-453e-acbe-8b750cac71d4" name="Changes" comment="" />
+      <created>1678563808902</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678561787683</updated>
+      <updated>1678563808902</updated>
     </task>
     <servers />
   </component>
