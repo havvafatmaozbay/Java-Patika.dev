@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="502ed2a7-d386-4762-aa28-9c2a22f7bfae" name="Changes" comment="" />
+    <list default="true" id="3ac24cac-442f-4b38-83e9-84413db9e352" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MugSZnGjDokFzTbKwQ0svzmU3r" />
+  <component name="ProjectId" id="2Musx72ND7RMk72t2buXAQ6dih2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,10 +27,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Repeting Frequency in Array" />
+      <module name="Hackerrank Array Game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Hackerrank Array Game" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -38,17 +45,18 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="502ed2a7-d386-4762-aa28-9c2a22f7bfae" name="Changes" comment="" />
-      <created>1678622883775</created>
+      <changelist id="3ac24cac-442f-4b38-83e9-84413db9e352" name="Changes" comment="" />
+      <created>1678629045999</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678622883775</updated>
+      <updated>1678629045999</updated>
     </task>
     <servers />
   </component>
